@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yrazsy
 - 👀 I’m interested in Object Oriented Programming, mainly mobile development
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Flutter, C++, Python
 - 📫 How to reach me: yrazsy@gmail.com
 
 <!---
